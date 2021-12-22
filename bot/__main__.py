@@ -165,7 +165,7 @@ help_string_telegraph = f'''<br>
 '''
 
 help = telegraph.create_page(
-        title='Helios-Mirror Help',
+        title='Hannah-Mirror Help',
         content=help_string_telegraph,
     )["path"]
 
